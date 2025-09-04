@@ -1,0 +1,3 @@
+name:joshna
+suc:2355250572
+course:BCA
